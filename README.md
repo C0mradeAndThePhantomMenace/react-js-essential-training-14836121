@@ -8,6 +8,7 @@ https://github.com/C0mradeAndThePhantomMenace/react-js-essential-training-148361
 
 https://miniature-space-guide-jj49xqrv4x4gc5rvx.github.dev/
 
+https://miniature-space-guide-jj49xqrv4x4gc5rvx-5173.app.github.dev/
 
 ## Setup Project
 
